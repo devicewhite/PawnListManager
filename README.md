@@ -46,41 +46,41 @@ Ordena a lista em ordem crescente.
 ## 11. **List_Reverse(list)**
 Inverte a ordem dos valores na lista.
 
-## 10. **List_Clear(list)**
+## 12. **List_Clear(list)**
 Limpa todos os valores da lista.
 
-## 11. **List_FindValue(list, value)**
+## 13. **List_FindValue(list, value)**
 Retorna o índice de um valor específico na lista.
 
-## 12. **List_SetValue(list, index, value)**
+## 14. **List_SetValue(list, index, value)**
 Define um valor de um índice específico da lista.
 
-## 13. **List_GetValue(list, index)**
+## 15. **List_GetValue(list, index)**
 Retorna um valor de um índice específico da lista.
 
-## 14. **List_FindValueEx(list, value, &index)**
+## 16. **List_FindValueEx(list, value, &index)**
 Encontra um valor na lista e armazena seu índice na variável.
 
-## 15. **List_GetValueEx(list, index, &value)**
+## 17. **List_GetValueEx(list, index, &value)**
 Obtém um valor de um índice específico e o armazena na variável.
 
-## 16. **List_Count(list)**
+## 18. **List_Count(list)**
 Retorna a quantidade de elementos na lista.
 
-## 17. **List_IsEmpty(list)**
+## 19. **List_IsEmpty(list)**
 Verifica se a lista está vazia.
 
-## 18. **List_IsFull(list)**
+## 20. **List_IsFull(list)**
 Verifica se a lista está cheia.
 
-## 19. **List_Contains(list, value)**
+## 21. **List_Contains(list, value)**
 Verifica se a lista contém um valor específico.
 
 ---
 
 # Macros Disponíveis
 
-## 1. **List**
+## 1. **ListManager**
 Cria uma nova lista.
 
 Exemplo:
